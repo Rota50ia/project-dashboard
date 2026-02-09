@@ -3,8 +3,8 @@
   "statistics": {
     "expansionPacksInstalled": 8,
     "skillsAvailable": 90,
-    "activeProjects": 2,
-    "completedProjects": 8,
+    "activeProjects": 1,
+    "completedProjects": 9,
     "backlog": 0
   },
   "activeProjects": [
@@ -31,25 +31,6 @@
       "notes": [
         "Discussão sobre brownfield discovery no contexto de escalar para produção",
         "DevOps trabalha em conjunto com Devs, Arquitetos, SRE, Security"
-      ]
-    },
-    {
-      "id": "dashboard-system",
-      "name": "Sistema de Dashboard",
-      "status": "in-progress",
-      "priority": "medium",
-      "progress": 60,
-      "description": "Web app para tracking de projetos e status de trabalho",
-      "completed": [
-        "Criar estrutura de dashboard",
-        "Documentar projetos atuais",
-        "Definir formato de tracking",
-        "Desenvolver web app básico"
-      ],
-      "nextSteps": [
-        "Hospedar na Hostgator",
-        "Manter atualizado conforme novos projetos",
-        "Evoluir para sistema mais interativo (futuro)"
       ]
     }
   ],
@@ -101,6 +82,12 @@
       "name": "ryEmail",
       "description": "Redação de emails (Ry Email Clone)",
       "completedDate": "2025-Q4"
+    },
+    {
+      "id": "dashboard-system",
+      "name": "Project Dashboard",
+      "description": "Web app dark mode para tracking de projetos com design moderno, bordas coloridas e gradient effects",
+      "completedDate": "2026-02-09"
     }
   ],
   "learnings": [
