@@ -1,0 +1,123 @@
+{
+  "lastUpdate": "2026-02-09",
+  "statistics": {
+    "expansionPacksInstalled": 8,
+    "skillsAvailable": 90,
+    "activeProjects": 2,
+    "completedProjects": 8,
+    "backlog": 0
+  },
+  "activeProjects": [
+    {
+      "id": "devops-pack",
+      "name": "DevOps Expansion Pack",
+      "status": "planned",
+      "priority": "high",
+      "progress": 0,
+      "description": "Expansion pack completo com agentes especializados em DevOps, CI/CD, Kubernetes, IaC e Monitoring",
+      "includes": [
+        "Agentes especializados (CI/CD, Kubernetes, IaC, Monitoring)",
+        "Tasks para brownfield discovery",
+        "Tasks para deployment e scaling",
+        "Checklists de produção",
+        "Knowledge bases sobre DevOps best practices"
+      ],
+      "nextSteps": [
+        "Definir escopo detalhado do pack",
+        "Criar agentes especializados",
+        "Desenvolver tasks e checklists",
+        "Instalar e testar"
+      ],
+      "notes": [
+        "Discussão sobre brownfield discovery no contexto de escalar para produção",
+        "DevOps trabalha em conjunto com Devs, Arquitetos, SRE, Security"
+      ]
+    },
+    {
+      "id": "dashboard-system",
+      "name": "Sistema de Dashboard",
+      "status": "in-progress",
+      "priority": "medium",
+      "progress": 60,
+      "description": "Web app para tracking de projetos e status de trabalho",
+      "completed": [
+        "Criar estrutura de dashboard",
+        "Documentar projetos atuais",
+        "Definir formato de tracking",
+        "Desenvolver web app básico"
+      ],
+      "nextSteps": [
+        "Hospedar na Hostgator",
+        "Manter atualizado conforme novos projetos",
+        "Evoluir para sistema mais interativo (futuro)"
+      ]
+    }
+  ],
+  "completedProjects": [
+    {
+      "id": "revisor-pack",
+      "name": "revisorPack",
+      "description": "Revisão de textos (Revisor Method)",
+      "completedDate": "2025-Q4"
+    },
+    {
+      "id": "design-squad",
+      "name": "designSquad",
+      "description": "Design, branding, tipografia (Paula Scher, Chris Do, Brad Frost, etc.)",
+      "completedDate": "2025-Q4"
+    },
+    {
+      "id": "music-education",
+      "name": "musicEducation",
+      "description": "Educação musical (Método Suzuki)",
+      "completedDate": "2025-Q4"
+    },
+    {
+      "id": "youtube-growth",
+      "name": "youtubeGrowth",
+      "description": "Crescimento no YouTube",
+      "completedDate": "2025-Q4"
+    },
+    {
+      "id": "marketing-suite",
+      "name": "marketingSuite",
+      "description": "Marketing e Instagram",
+      "completedDate": "2025-Q4"
+    },
+    {
+      "id": "clone-factory",
+      "name": "cloneFactory",
+      "description": "Criação de clones de IA",
+      "completedDate": "2025-Q4"
+    },
+    {
+      "id": "creator",
+      "name": "creator",
+      "description": "Sistema de criação de expansion packs",
+      "completedDate": "2025-Q4"
+    },
+    {
+      "id": "ry-email",
+      "name": "ryEmail",
+      "description": "Redação de emails (Ry Email Clone)",
+      "completedDate": "2025-Q4"
+    }
+  ],
+  "learnings": [
+    {
+      "title": "Brownfield Discovery",
+      "description": "Processo de mapear sistemas existentes antes de escalar para produção",
+      "date": "2026-02-09"
+    },
+    {
+      "title": "DevOps Collaboration",
+      "description": "DevOps trabalha colaborativamente com múltiplos times (Devs, Arquitetos, SRE, Security)",
+      "date": "2026-02-09"
+    },
+    {
+      "title": "Brownfield vs Greenfield",
+      "description": "Brownfield (sistemas legados) vs Greenfield (projetos novos)",
+      "date": "2026-02-09"
+    }
+  ]
+}
